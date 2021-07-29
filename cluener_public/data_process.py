@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 """
 @author : wang bq
-@email  : wangbingqian@boe.com.cn
+@email  : 
 @time   :20-12-9 下午9:04
 @IDE    :PyCharm
 @document   :data_process.py
